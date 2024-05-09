@@ -1,2 +1,2 @@
-# MDiff
-Multi-Diffusion Model for Ultra-Sparse View CT Reconstruction
+# MSDiff
+Multi-Scale Diffusion Model for Ultra-Sparse View CT Reconstruction
